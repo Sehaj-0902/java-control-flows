@@ -41,7 +41,6 @@ public class SpringSeason {
 			System.out.println("It's a Spring Season");
 		}
 
-
 		else {
 			System.out.println("Not a Spring Season");
 		}
