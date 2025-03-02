@@ -18,7 +18,7 @@ public class LeapYearUsingIfElse {
             		System.out.println("Please enter a year greater than or equal to 1582.");
         	}
 		else {
-            	// Using Multiple if-else statements
+	            	// Using Multiple if-else statements
             		System.out.println("Using Multiple If-Else Statements: ");
             		if (year % 4 == 0) {
                 		if (year % 100 == 0) {
