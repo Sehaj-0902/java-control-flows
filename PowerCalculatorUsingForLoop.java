@@ -1,4 +1,4 @@
-// Program to find the power of a number
+// Program to find the power of a number using for loop
 
 // Import Scanner class from java.util package to take user input
 import java.util.Scanner;
